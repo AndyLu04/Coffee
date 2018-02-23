@@ -10,6 +10,8 @@ int main()
 	int x=1,y=2,z=3;
 
 	cout <<x<<y<<z<< endl;
+	
+	cout << "henry is testing now" <<endl;
 
 	return 0;
 
